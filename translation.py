@@ -10,7 +10,7 @@ class Translation(object):
 
 ⭕️ Support: <a href="https://t.me/LK9779">My_master</a>
 
-⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/marvel_lk">Marvel Sri Lanka</a> | <a href="https://t.me/marvel_fandom_lk">Marvel Fandom LK</a>"""
+⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/disneyplus_lk">Disney +</a> | <a href="https://t.me/disneyplus_fandom">Disney + Fandom LK</a>"""
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
